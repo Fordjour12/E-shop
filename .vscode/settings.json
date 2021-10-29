@@ -1,0 +1,9 @@
+{
+    "prettier.singleQuote": true,
+    "editor.autoClosingQuotes": "always",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "prettier.bracketSpacing": true,
+    "prettier.semi": false,
+    "prettier.tabWidth": 4
+}
